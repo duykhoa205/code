@@ -1,0 +1,7 @@
+C:\Users\Asus\OneDrive\Máy tính\C sharp\thu trong tuan\bin\Debug\thu trong tuan.exe.config
+C:\Users\Asus\OneDrive\Máy tính\C sharp\thu trong tuan\bin\Debug\thu trong tuan.exe
+C:\Users\Asus\OneDrive\Máy tính\C sharp\thu trong tuan\bin\Debug\thu trong tuan.pdb
+C:\Users\Asus\OneDrive\Máy tính\C sharp\thu trong tuan\obj\Debug\ASM 1.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Máy tính\C sharp\thu trong tuan\obj\Debug\ASM 1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\C sharp\thu trong tuan\obj\Debug\thu trong tuan.exe
+C:\Users\Asus\OneDrive\Máy tính\C sharp\thu trong tuan\obj\Debug\thu trong tuan.pdb
